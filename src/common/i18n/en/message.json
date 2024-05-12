@@ -1,0 +1,11 @@
+{
+  "EMAIL_CONFLICT": "Email already exists",
+  "EMAIL_NOT_FOUND": "Email not found",
+  "USER_NOT_FOUND": "User not found",
+  "SUCCESS_CREATE_USER": "User created successfully",
+  "SUCCESS_UPDATE_USER": "User updated successfully",
+  "SUCCESS_DELETE_USER": "User deleted successfully",
+  "SUCCESS_SHOW_USERS": "Users retrieved successfully",
+  "SUCCESS_SHOW_USER": "User retrieved successfully",
+  "SUCCESS": "Success"
+}

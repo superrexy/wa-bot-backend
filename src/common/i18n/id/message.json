@@ -1,0 +1,11 @@
+{
+  "EMAIL_CONFLICT": "Email telah digunakan",
+  "EMAIL_NOT_FOUND": "Email tidak ditemukan",
+  "USER_NOT_FOUND": "User tidak ditemukan",
+  "SUCCESS_CREATE_USER": "Berhasil membuat user",
+  "SUCCESS_UPDATE_USER": "Berhasil mengupdate user",
+  "SUCCESS_DELETE_USER": "Berhasil menghapus user",
+  "SUCCESS_SHOW_USERS": "Berhasil menampilkan user",
+  "SUCCESS_SHOW_USER": "Berhasil menampilkan user",
+  "SUCCESS": "Berhasil"
+}
